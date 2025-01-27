@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "progress": "^2.0.3",
+    "twilio": "^5.4.2",
+    "twilio-chat": "^6.0.0"
+  }
+}
